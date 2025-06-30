@@ -1,2 +1,2 @@
 # StockPricePridictor_AIML
-stock price pridection
+This project analyzes historical stock price data for NVIDIA (NVDA) from 2015 to 2025. It includes data loading, exploration, visualization of price trends (Open, High, Low, Close, Volume), and the implementation of an LSTM model for stock price prediction. The model's performance is evaluated using MSE, RMSE, and MAE, and the predicted prices are visualized against the original prices.
